@@ -1,0 +1,7 @@
+C:\Users\shupi\source\repos\10-11\10-11\bin\Debug\10-11.exe.config
+C:\Users\shupi\source\repos\10-11\10-11\bin\Debug\10-11.exe
+C:\Users\shupi\source\repos\10-11\10-11\bin\Debug\10-11.pdb
+C:\Users\shupi\source\repos\10-11\10-11\obj\Debug\10-11.csproj.AssemblyReference.cache
+C:\Users\shupi\source\repos\10-11\10-11\obj\Debug\10-11.csproj.CoreCompileInputs.cache
+C:\Users\shupi\source\repos\10-11\10-11\obj\Debug\10-11.exe
+C:\Users\shupi\source\repos\10-11\10-11\obj\Debug\10-11.pdb
